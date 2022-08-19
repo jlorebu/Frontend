@@ -1,3 +1,6 @@
+head{   
+    font-family: 'Roboto', sans-serif;
+}
 .header1{
     background-color: black;
 }
@@ -6,8 +9,40 @@
 }
 .header2{
     background-color: #F0A83E;
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20 px;
 ;
 }
-.letra1{
-    color: white
+.letraLogo1{
+    color: black;
+}
+.letralogo2{
+    color: white;
+}
+
+.barra{
+    text-align: right;
+}
+.bowl{
+    background-image: url(img/bowl.png);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.ppal{
+    background-color: #a5debb;
+    background-position: center ;  
+    background-size: contain;
+}
+.pD{
+    text-align: center;
+    font-weight: bolder;
+}
+.listado1{
+    text-align: center;
+}
+.logoFinal{
+    align-items: right;
 }
